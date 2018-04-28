@@ -2,7 +2,7 @@
 version: 3.8.0
 name: "Zen Developer: Freelance Full Stack Developer"
 description: "Zen Developer: Official blog of Freelance Full Stack Developer Rodrigo Aguila. PHP, MySQLi, Ruby on Rails, HTML5/CSS3, JS, Bootstrap, WordPress, Jekyll and more about technology and development..."
-url: https://budowebs2.github.io/zendeveloper.github.io/
+url: 
 repository: https://github.com/jekyll/jekyll
 timezone: America/Santiago
 twitter:
